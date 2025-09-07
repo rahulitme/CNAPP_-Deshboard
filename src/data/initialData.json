@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        { "id": "w-101", "title": "Cloud Accounts", "text": "" },
+        { "id": "w-102", "title": "Cloud Account Risk Assessment", "text": "" },
+        { "id": "w-103", "title": "Add Slot", "text": "" }
+      ]
+    },
+    {
+      "id": "cat-2",
+      "name": "CWPP Dashboard",
+      "widgets": [
+        { "id": "w-201", "title": "Top 5 Namespace Specific Alerts", "text": "No Graph data available" },
+        { "id": "w-202", "title": "Workload Alerts", "text": "No Graph data available" },
+        { "id": "w-203", "title": "Add Slot", "text": "" }
+      ]
+    },
+    {
+      "id": "cat-3",
+      "name": "Registry Scan",
+      "widgets": [
+        { "id": "w-301", "title": "Image Risk Assessment", "text": "" },
+        { "id": "w-302", "title": "Image Security Issues", "text": "" },
+        { "id": "w-303", "title": "Add Slot", "text": "" }
+      ]
+    }
+  ]
+}
